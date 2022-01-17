@@ -102,7 +102,7 @@ def meal(grade: int, class_number: int, timetable_ymd: str):
 
 
 # http://localhost:8000/docs
-# python -m uvicorn server:app -> 서버 키는 법
+# python -m uvicorn server:app -> 서버 키는 법 
 # 해석 : 파이썬아, module인, uvicorn으로, server파일의, app을 실행해
 
 # python -m uvicorn server:app --reload
